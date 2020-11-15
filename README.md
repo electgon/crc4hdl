@@ -9,14 +9,13 @@ Usage:
 
 options are:
 
-* -p value             define the generator polynomial <>
-* -d value             define width of the crc <>
-* -w value             define width of input data <>
-* -msb                 choose it if input data has msb first
-* -lsb                 choose it if input data has lsb first
-* -\-                   Forcibly stop option processing
-* -help                Print this message
-* -?                   Print this message
+* [-p value]             to define the generator polynomial <>
+* [-d value]             to define width of the crc <>
+* [-w value]             to define width of input data <>
+* [-msb]                 to choose it if input data has msb first
+* [-lsb]                 to choose it if input data has lsb first
+* -\-                    Forcibly stop option processing
+* -?                     Print help message
 
 Example: 
 ```
