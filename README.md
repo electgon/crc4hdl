@@ -27,3 +27,4 @@ this will generate CRC for the polynomial 104C11DB7 which of degree 32 (CRC widt
 
 The tool binary is provided for:
 - Windows: crc4hdl.exe
+- Linux: crc4hdl
